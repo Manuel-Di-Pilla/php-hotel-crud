@@ -39,7 +39,7 @@
             </div>
             <div class="form-group">
               <input type="hidden" name="id" value="<?php echo $room['id']; ?>">
-              <input type="submit" class="form-control" class="btn btn-submit" " name="salva" value="Aggiorna">
+              <input type="submit" class="form-control" class="btn btn-submit" " name="salva" value="Salva">
             </div>
           </form>
         </div>

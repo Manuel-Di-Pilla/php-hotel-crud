@@ -15,6 +15,17 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
+          <header>
+            <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+              <div class="navbar-brand">Hotel Booleana</div>
+              <div class="collapse navbar-collapse">
+                <ul class="navbar-nav">
+                  <li class="nav-item"><a class="nav-link" href="<?php echo 'http://localhost/php-hotel-crud/index.php' ?>">Tutte le stanze</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?php echo 'http://localhost/php-hotel-crud/insert/insert.php'?>">Inserisci una stanza</a></li>
+                </ul>
+              </div>
+            </nav>
+          </header>
           <table class="table">
             <thead>
               <tr>
