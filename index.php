@@ -22,6 +22,7 @@
                 <ul class="navbar-nav">
                   <li class="nav-item"><a class="nav-link" href="<?php echo 'http://localhost/php-hotel-crud/index.php' ?>">Tutte le stanze</a></li>
                   <li class="nav-item"><a class="nav-link" href="<?php echo 'http://localhost/php-hotel-crud/insert/insert.php'?>">Inserisci una stanza</a></li>
+                  <li class="nav-item"><a class="nav-link" href="<?php echo 'http://localhost/php-hotel-crud/prenotazioni/prenotazioni.php'?>">Prenotazioni</a></li>
                 </ul>
               </div>
             </nav>
